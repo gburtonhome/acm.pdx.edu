@@ -32,16 +32,10 @@
 			  <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
 			</tr><tr>
 			  <td>Chair</td>
-			  <td>Lindsay Ergenekan</td>
+			  <td>Sean Walsh</td>
 			</tr><tr>
-			  <td>Vice Chair</td>
-			  <td>Sean Walsh<!-- - spw2 at pdx.edu--></td>
-			</tr><tr>
-			  <td>Treasurer</td>
+			  <td>Treasurer/Secretary</td>
 			  <td>Donovan Finch</td>
-			</tr><tr> 
-			  <td>Secretary</td>
-			  <td>Philip Coho</td>
 			</tr><tr>
 			  <td>Arbiter</td>
 			  <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
