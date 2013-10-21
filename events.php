@@ -1,4 +1,18 @@
 <?php $title = "ACM @ PSU - Events" ?>
+
+<?php function head_content() { ?>
+ <style type="text/css">
+b a        {text-decoration: none;
+        color: #57f;}
+b a:visited {color: #57f;}
+
+.box        {font-size: 10pt;}
+  </style>
+
+  <script type="text/javascript">
+  </script>
+<?php } ?>
+
 <?php require_once(dirname(__FILE__).'/scripts/top.php') ?>
 <h2>Events</h2>
 

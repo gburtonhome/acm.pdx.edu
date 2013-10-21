@@ -1,10 +1,6 @@
-<?php
-  $title = "ACM @ PSU - Recovered History";
+<?php $title = "ACM @ PSU - Recovered History" ?>
 
-// put stuff in here to get added to this specific page's head section
-function head_content()
-{
-?>
+<?php function head_content() { ?>
   <script type="text/javascript"><!--
 var h = new Array('The Halo 3 Event is On!','All of the Xbox 360s needed have been located!&nbsp; It&#39;s on!<br /><br />Microsoft will be sponsoring an XBox 360 Halo3 night here at PSU.&nbsp; The evening will start with some warmup sessions, and will end with a no holds barred, all out, tourney-royalle.&nbsp; This tournament is just meant for fun, so don&#39;t be intimidated by the skillz of Wu-chi Feng!<br /><br />When: Nov. 1, 6-9pm<br />Where: FAB 55-17<br /><br />All friends of CS students and alumni are welcome to join us!<br /><br />If you intend to play in the FOR FUN tournament:<br />Send an e-mail to wuchi at cs.pdx.edu with &quot;HALO 3 Night will play [login id]&quot;','2007-10-28 19:24:33'
 ,
@@ -164,14 +160,9 @@ function links()
 
 #main	{min-height: 3.5in;}
   </style>
+<?php } ?>
 
-<?php
-}
-
-// put stuff in here to get it displayed on the page
-function main_content()
-{
-?>
+<?php require_once(dirname(__FILE__).'/../scripts/top.php') ?>
     <div id="articles">
       <script type="text/javascript">links();</script>
     </div>
@@ -179,8 +170,4 @@ function main_content()
     <h2 id="title">Recovered Pages</h2>
     <div id="content">These are pages recovered from the database after the old Joomla setup fell apart.</div>
     <div id="date">2012-10-14 00:00:00</div>
-<?php
-}
-
-  include '../scripts/body.php';
-?>
+<?php require_once(dirname(__FILE__).'/../scripts/bottom.php') ?>
