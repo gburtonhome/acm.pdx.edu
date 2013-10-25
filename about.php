@@ -56,12 +56,15 @@ function head_content() { ?>
 			  <td>Chair</td>
 			  <td>Sean Walsh</td>
 			</tr><tr>
-			  <td>Treasurer/Secretary</td>
+			  <td>Vice Chair</td>
+			  <td>Sean Mahan</td>
+  		        </tr><tr>
+			  <td>Treasurer</td>
 			  <td>Donovan Finch</td>
 			</tr><tr>
-			  <td>Arbiter</td>
+			  <!--<td>Arbiter</td>
 			  <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
-			</tr><tr>
+			</tr>--><tr>
 			  <td>Vizier</td>
 			  <td>Damon Liang<!-- - damonl at cecs.pdx.edu--></td>
 			</tr><tr>
