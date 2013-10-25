@@ -47,35 +47,60 @@ function head_content() { ?>
 		  </tr>
 		  <tr>
 		    <td class="about_td">
-		      <b>Official Members</b>
-		      <table>
-			<tr>
-			  <td>Advisor</td>
-			  <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
-			</tr><tr>
-			  <td>Chair</td>
-			  <td>Sean Walsh</td>
-			</tr><tr>
-			  <td>Vice Chair</td>
-			  <td>Sean Mahan</td>
-  		        </tr><tr>
-			  <td>Treasurer</td>
-			  <td>Donovan Finch</td>
-			</tr><tr>
-			  <!--<td>Arbiter</td>
-			  <td>Alexander Steiert<!-- - asteiert at cs.pdx.edu--></td>
-			</tr>--><tr>
-			  <td>Vizier</td>
-			  <td>Damon Liang<!-- - damonl at cecs.pdx.edu--></td>
-			</tr><tr>
-			  <td>Webmaster</td>
-			  <td>Harmanpreet Singh</td>
-			</tr><tr>
-			  <td>Agent</td>
-			  <td>Jameson McCowan<!-- - jameson at cecs.pdx.edu--></td>
-			</tr>
-		      </table>
+		      <b>Officers</b>
+			    <table>
+					<tr>
+					  <td>Advisor</td>
+					  <td><a href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a><!-- - bart at cs.pdx.edu--></td>
+					</tr>
+					<tr>
+					  <td>Chair</td>
+					  <td>Sean Walsh</td>
+					</tr>
+					<tr>
+					  <td>Vice Chair</td>
+					  <td>Sean Mahan</td>
+					</tr>
+					<tr>
+					  <td>Treasurer</td>
+					  <td>Donovan Finch</td>
+					</tr>
+					<tr>
+					  <td>Webmaster</td>
+					  <td>Sage Imel</td>
+					</tr>
+					<tr>
+					  <td>Secretary</td>
+					  <td>Clayton Ward</td>
+					</tr>
+			  </table>
+			</td>
+		  </tr>
+		  <tr>
+		    <td class="about_td">
+			  <b>Official Members</b>
+    	      <table>
+				<tr>
+				    <td>Alexander Steiert</td>
+				</tr>
+				<tr>
+				    <td>Damon Liang</td>
+				</tr>
+				<tr>
+				    <td>Harmanpreet Singh</td>
+				</tr>
+				<tr>
+				    <td>Jameson McCowan</td>
+				</tr>
+				<tr>
+				    <td>Rob Werferman</td>
+				</tr>
+				<tr>
+				    <td>Philip Coho</td>
+				</tr>
+			  </table>
 		    </td>
+		  </tr>
 		    <td class="about_td">
 		      <b>PSU</b><br />
 		      Portland State University is situated in downtown Portland, Oregon, United States.
