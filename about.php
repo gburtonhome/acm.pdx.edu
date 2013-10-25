@@ -1,6 +1,5 @@
-<?php $title = "ACM @ PSU - About Us" ?>
-
-<?php function head_content() { ?>
+<?php $title = "ACM @ PSU - About Us"; 
+function head_content() { ?>
   <style type="text/css">
 .about_table {border-collapse: separate;
         border-spacing: 10px;}

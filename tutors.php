@@ -41,7 +41,7 @@
           </tr><tr>
             <td>2-3</td>
             <td></td>
-            <td>Peter</td>
+            <td></td>
             <td>Alevar</td>
             <td></td>
             <td></td>
